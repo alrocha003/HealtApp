@@ -1,0 +1,8 @@
+#display-info {
+    width: 45%;
+    height: 400px;
+    border: solid 0.05em #3d3d3d;
+    margin-top: 7.5px;
+    margin-left: 5px;
+    float: left;
+}

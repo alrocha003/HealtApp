@@ -1,0 +1,11 @@
+#quadro-agenda
+{
+       width: 50%;
+       height: 900px;
+       margin-left: 4%;
+       border: solid 0.1em #8b8b8b;
+       /* border-radius: 0.5em; */
+       background-color: #fff;  
+       margin-top: 7.5px;    
+       float: left;
+}

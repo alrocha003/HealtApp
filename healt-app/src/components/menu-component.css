@@ -1,0 +1,36 @@
+#Menu
+{
+    color: #fff;
+    background: #f0f0f0;
+    height: 55px;
+}
+
+#navbar
+{
+    margin-top: 0px;
+    padding:0px;
+    max-height: 50px;
+    text-align: center;
+}
+
+/*Classes*/
+.navbar-brand
+{
+    text-align: left;
+    text-decoration: none;
+    margin: 25px;
+}
+
+.navbar-brand :active :hover
+{
+    text-align: left;
+    text-decoration: none;
+    font-style: inherit;
+}
+
+.navbar-nav
+{
+    display: inline-block;
+}
+
+
